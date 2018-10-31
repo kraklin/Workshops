@@ -464,7 +464,7 @@ Note the **match ... with** syntax
 
 ----------------------------------------------------------------------------
 
-## Patter matching
+## Pattern matching
 
 Works with tuples
 
@@ -483,7 +483,7 @@ let sayHelloByAge value =
 
 ----------------------------------------------------------------------------
 
-## Patter matching
+## Pattern matching
 
 Works with records
 
@@ -501,7 +501,7 @@ let sayHelloByAge value =
 ```
 ----------------------------------------------------------------------------
 
-## Patter matching
+## Pattern matching
 
 Works with lists
 
